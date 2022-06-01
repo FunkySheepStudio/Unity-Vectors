@@ -1,0 +1,28 @@
+{
+  "name": "net.funkysheep.unity.vectors",
+  "displayName": "FunkySheep Unity Vectors Library",
+  "version": "0.1.0",
+  "unity": "2020.3",
+  "description": "FunkySheep framework Vectors Library",
+  "keywords": [
+    "Vectors",
+    "Unity",
+    "WebGl",
+    "AR",
+    "Android",
+    "IOS"
+  ],
+  "category": "vectors",
+  "changelogUrl": "https://github.com/FunkySheepStudio/Unity-Vectors/blob/main/CHANGELOG.md",
+  "dependencies": {
+  },
+  "scopedRegistries": [
+    {
+      "name": "npmjs",
+      "url": "https://registry.npmjs.org",
+      "scopes": [
+        "net.funkysheep"
+      ]
+    }
+  ]
+}
